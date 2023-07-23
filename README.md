@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 Hi, I’m Nguyễn Thành Long  
-🌱 I’m currently learning Software Engineering at FPT University HCM Campus
+🌱 I’m currently learning Software Engineering at FPT University HCM Campus  
 📫 Contact me via longntse2000@gmail.com
 
 ## 🌐Socials
